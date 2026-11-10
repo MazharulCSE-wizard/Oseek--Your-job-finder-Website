@@ -7,3 +7,5 @@ Shaswato Das Aunon : N/A
 
 Video explanation :
 https://www.youtube.com/watch?v=ckdm3_-T64Y&t=5s
+
+Vercel link : https://oseek.vercel.app/
